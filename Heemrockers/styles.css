@@ -1,0 +1,59 @@
+/*{font-family:Arial,Helvetica, sans-serif}*/
+.container{
+    font-family:Arial, Helvetica, sans-serif;
+    Width:60%;
+    Margin:auto;
+}
+header{
+    font-family:Arial, Helvetica, sans-serif;
+    color:whitesmoke;
+    background-color:black;
+    padding:20px;
+}
+
+footer{
+    background-color:black;
+    color:whitesmoke;
+    font-family:Arial, Helvetica, sans-serif;
+    text-align:center;
+    margin:auto;
+    padding:10px;
+}
+.container h2{
+    color:goldenrod;
+    font-family:fantasy;
+    letter-spacing:0.1em;
+    font-size: 40px;
+    font-style:oblique;
+}
+a{
+    text-decoration:none;
+    color:whitesmoke;
+}
+a:hover{
+    color:red;
+}
+.lijst{
+   
+    border: 2px #ccc solid;
+    border-radius:15px;
+    padding: 10px;
+}
+.lijst ul{
+    padding:0;
+    list-style:none;
+}
+.lijst li{
+    padding:0px;
+    border-bottom:1px;
+    list-style-image: url(images/drum.png)
+}
+.list, li a{
+    color:black;
+}
+img{
+    margin-top:40px;
+    margin-bottom:40px;
+    border:10px#ccc solid;
+    
+}
